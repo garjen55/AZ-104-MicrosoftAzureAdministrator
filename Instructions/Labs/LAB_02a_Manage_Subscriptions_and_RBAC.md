@@ -144,7 +144,7 @@ In this task, you will create an Azure Active Directory user, assign the RBAC ro
 
 1. Click **Access control (IAM)**, click **+ Add** followed by **Add role assignment**, and assign the **Support Request Contributor (Custom)** role to the newly created user account.
 
-1. Open an **InPrivate** browser window and sign in to the [Azure portal](https://portal.azure.com) using the newly created user account. When prompted to update the password, change the password for the user.
+1. Open an **InPrivate** browser window and sign in to the Azure portal at ```https://portal.azure.com``` using the newly created user account. When prompted to update the password, change the password for the user.
 
     >**Note**: Rather than typing the user name, you can paste the content of Clipboard.
 
