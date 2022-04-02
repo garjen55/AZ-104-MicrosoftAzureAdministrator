@@ -51,19 +51,19 @@ In this task, you will create and configure management groups.
 
 1. Search for and select **Management groups** to navigate to the **Management groups** blade.
 
+    >**Note**: If you have not previously created Management Groups, select **Start using management groups**
+
 1. Review the messages at the top of the **Management groups** blade. If you are seeing the message stating **You are registered as a directory admin but do not have the necessary permissions to access the root management group**, perfom the following sequence of steps:
 
     1. In the Azure portal, search for and select **Azure Active Directory**.
     
-    1.  On the blade displaying properties of your Azure Active Directory tenant, in the vertical menu on the left side, in the **Manage** section, select **Properties**.
+    1. On the blade displaying properties of your Azure Active Directory tenant, in the vertical menu on the left side, in the **Manage** section, select **Properties**.
     
-    1.  On the **Properties** blade of your your Azure Active Directory tenant, in the **Access management for Azure resources** section, select **Yes** and then select **Save**.
+    1. On the **Properties** blade of your your Azure Active Directory tenant, in the **Access management for Azure resources** section, select **Yes** and then select **Save**.
     
-    1.  Navigate back to the **Management groups** blade, and select **Refresh**.
+    1. Navigate back to the **Management groups** blade, and select **Refresh**.
 
-1. On the **Management groups** blade, click **+ Create**.
-
-    >**Note**: If you have not previously created Management Groups, select **Start using management groups**
+1. If necessary, on the **Management groups** blade, click **+ Create**.
 
 1. Create a management group with the following settings:
 
