@@ -36,7 +36,7 @@ In this task, you will create and configure Azure AD users.
 
 >**Note**: If you have previously used the Trial license for Azure AD Premium on this Azure AD Tenant you will need a new Azure AD Tenant and perform the Task 2 after Task 3 in that new Azure AD tenant.
 
-1. Sign in to the [Azure portal](https://portal.azure.com).
+1. Sign in to the **https://portal.azure.com**.
 
 1. In the Azure portal, search for and select **Azure Active Directory**.
 
