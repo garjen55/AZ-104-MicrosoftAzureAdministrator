@@ -63,7 +63,7 @@ In this task, we will move the disk resource you created in the previous task to
 
 1. On the **Resource groups** blade, click the entry representing the **az104-03a-rg1** resource group you created in the previous task.
 
-1. From the **Overview** blade of the resource group, in the list of resource group resources, select the entry representing the newly created disk, click **Move** in the toolbar, and, in the drop-down list, select **Move to another resource group**.
+1. From the **Overview** blade of the resource group, in the list of resource group resources, select the checkbox next to the newly created disk, click **Move** in the toolbar, and, in the drop-down list, select **Move to another resource group**.
 
     >**Note**: This method allows you to move multiple resources at the same time. 
 
@@ -103,7 +103,7 @@ In this task, you will apply a resource lock to an Azure resource group containi
     
 1. Click **OK**    
 
-1. On the **az104-03a-rg3** resource group blade, click **Overview**, in the list of resource group resources, select the entry representing the disk you created earlier in this task, and click **Delete** in the toolbar. 
+1. On the **az104-03a-rg3** resource group blade, click **Overview**, in the list of resource group resources, select the checkbox next to the disk you created earlier in this task, and click **Delete** in the toolbar. 
 
 1. When prompted **Do you want to delete all the selected resources?**, in the **Confirm delete** text box, type **yes** and click **Delete**.
 
