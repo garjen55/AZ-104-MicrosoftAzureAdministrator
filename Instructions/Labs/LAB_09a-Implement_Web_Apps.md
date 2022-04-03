@@ -36,7 +36,7 @@ In this lab, you will:
 
 In this task, you will create an Azure web app.
 
-1. Sign in to the [**Azure portal**](http://portal.azure.com).
+1. Sign in to the **Azure portal** at ```http://portal.azure.com```.
 
 1. In the Azure portal, search for and select **App services**, and, on the **App Services** blade, click **+ Create**.
 
