@@ -167,7 +167,7 @@ In this task, you will implement file and folder backup by using Azure Recovery 
 
     >**Note:** Because the Azure portal doesn't support IE11 anymore, you'll have to use the Microsoft Edge Browser for this task.
 
-1. Within the Remote Desktop session to the **az104-10-vm1** Azure virtual machine, start an Edge web browser, browse to the [Azure portal](https://portal.azure.com), and sign in using your credentials.
+1. Within the Remote Desktop session to the **az104-10-vm1** Azure virtual machine, start an Edge web browser, browse to the Azure portal at ```https://portal.azure.com```, and sign in using your credentials.
 
 1. In the Azure portal, search for and select **Recovery Services vaults** and, on the **Recovery Services vaults**, click **az104-10-rsv1**.
 
